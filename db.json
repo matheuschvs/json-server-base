@@ -7,5 +7,20 @@
       "age": 38,
       "id": 1
     }
+  ],
+  "cards": [
+    {
+      "userId": 1,
+      "name": "cubone",
+      "value": 150,
+      "id": 1
+    }
+  ],
+  "episodes": [
+    {
+      "title": "Quando Regiões se Enfrentam!",
+      "season": "2001",
+      "number": 43
+    }
   ]
 }
