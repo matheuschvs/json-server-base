@@ -1,4 +1,7 @@
 <h1 align="center">json-server-base</h1>
+
+**baseUrl:** `https://cards-and-episodes.herokuapp.com`
+
 <p align = "center">
 Esse é o repositório com a base de JSON-Server + JSON-Server-Auth já configurada, feita para ser usada no desenvolvimento das API's nos Capstones do Q2.</p>
 
